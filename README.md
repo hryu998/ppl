@@ -2,7 +2,7 @@
 
 Proportion Practice Tool ( PPL ), lets users to train themselves to see right proportion.
 
-Copyright (C) <2021> <Hyomin Ryu>
+Copyright (C) <2021> Hyomin Ryu
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as
